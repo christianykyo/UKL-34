@@ -10,7 +10,7 @@
 
 # TAMBAH DATA PEMINJAMAN
 ![Alt Text](https://github.com/christianykyo/UKL-34/blob/master/UKL%203.5.png)
-#Code nya rusak.. :(
+Code nya rusak.. :(
 
 # TAMPILAN SETELAH LOGOUT
 ![Alt Text](https://github.com/christianykyo/UKL-34/blob/master/UKL%203.X.png)
